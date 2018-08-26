@@ -2,7 +2,7 @@
 #define TEST_CLASS_H
 
 
-#include "./Lua/LuaTypes.h"
+#include "./LUA/LuaTypes.h"
 
 struct Vector2 
 {
